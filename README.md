@@ -21,8 +21,8 @@ This project is designed to enhance customer engagement, improve financial decis
 ✅ Personalized banking recommendations based on transaction history, social media sentiment, and user profile.
 ✅ AI-powered chatbot for real-time financial assistance and service recommendations.
 
-
-
+##  Demo Video Link
+https://drive.google.com/file/d/1CMc74-t8X4kZleQoyof7hMGQ2eZ_RKAV/view?usp=sharing
 
 ## 💡 Inspiration
 With the rise of AI-driven experiences in sectors like e-commerce and entertainment, we saw a gap in hyperpersonalized financial services that truly cater to individual users. Traditional banking often provides one-size-fits-all recommendations, leading to irrelevant offers and missed opportunities for both customers and businesses. We wanted to bridge this gap by leveraging AI, machine learning, and real-time behavioral analysis to create a system that not only understands user needs but also evolves with them. Our goal was to build a solution that transforms banking into an intelligent, intuitive, and highly personalized experience—where users get the right financial insights at the right time, empowering them to make smarter financial decisions effortlessly.
