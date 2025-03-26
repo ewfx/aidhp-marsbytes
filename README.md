@@ -66,8 +66,9 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Frontend: Angular
 - 🔹 Backend: Node.js/ Python 
 - 🔹 Database: faker
-- 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Surya** 
+- **Radhika**
+- **Mayuri Tambe**
+- **Ananya Jain**
