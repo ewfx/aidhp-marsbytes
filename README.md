@@ -37,7 +37,37 @@ Beyond traditional data, our AI also incorporates behavioral insights from socia
 Additionally, our Conversational AI chatbot acts as an intelligent assistant, providing real-time financial guidance, answering queries, and helping users navigate banking services effortlessly. With natural language interactions, it ensures a seamless, engaging, and interactive user experience.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Step 1: Understanding Requirements & Data Collection
+Gathered customer transaction data, comments, and financial needs from an Excel file.
+
+Step 2: Data Preprocessing & Feature Engineering
+Cleaned text data (removing stop words, punctuation, and special characters).
+Mapped transaction types to a rating system for collaborative filtering.
+Tokenized and vectorized text features using TF-IDF for similarity analysis.
+
+Step 3: Implementing Content-Based Filtering (TF-IDF + Cosine Similarity)
+Combined customer interests, financial needs, and occupation into a single text representation.
+Applied TF-IDF vectorization to convert text into numerical features.
+Computed cosine similarity scores between customers for recommendations.
+
+Step 4: Implementing Collaborative Filtering (SVD - Singular Value Decomposition)
+Created a user-item interaction matrix where customers rate services based on transactions.
+Used SVD to predict missing ratings and recommend services based on similar users.
+
+Step 5: Sentiment Analysis Using VADER
+Used VADER SentimentIntensityAnalyzer to analyze customer comments.
+Classified customer sentiment as positive, negative, or neutral to refine recommendations.
+
+Step 6: Generative AI for Offer Customization (Mistral AI Integration)
+Sent a request to Mistral AI’s local API to return offers based on user interests.
+Ensured responses were formatted as valid JSON for easy integration.
+
+Step 7: Chatbot Development & Integration
+Designed an API-based chatbot for real-time interaction.
+Implemented intent classification using TF-IDF to match user queries with services.
+
+Step 8: API Development Using FastAPI
+Created endpoints
 
 ## 🚧 Challenges We Faced
 Data Quality & Availability
