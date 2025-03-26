@@ -2,7 +2,6 @@
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
@@ -22,10 +21,7 @@ This project is designed to enhance customer engagement, improve financial decis
 ✅ Personalized banking recommendations based on transaction history, social media sentiment, and user profile.
 ✅ AI-powered chatbot for real-time financial assistance and service recommendations.
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+
 
 
 ![Screenshot 1](link-to-image)
