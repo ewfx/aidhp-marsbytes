@@ -1,0 +1,1001 @@
+custID,merchant,merchant_category,ratings
+10035,Jackson-Hill,Electronics,4.96480075011674
+10003,Galloway-Duarte,Electronics,2.682867800033686
+10084,Hughes PLC,Travel,2.8443680923990162
+10005,Jackson Ltd,Electronics,2.212567598126481
+10024,Murray-Gordon,Restaurants,3.3375891739493286
+10093,"Garrison, Colon and Brown",Clothing,4.907267018170679
+10099,"Brown, Hahn and Cook",Grocery,1.38995333948559
+10021,Jones PLC,Clothing,2.7197145462869883
+10038,"Guerrero, Duncan and Rodriguez",Clothing,3.585847104433807
+10074,Ramirez-Gill,Clothing,1.3542897988813847
+10086,"Anderson, Bray and Watkins",Restaurants,1.8980504494737271
+10059,Walters LLC,Restaurants,1.1005019293974736
+10007,Atkins Group,Travel,4.633776255396238
+10016,Bradley PLC,Restaurants,1.0572056682575752
+10069,"Stone, Jackson and Jones",Clothing,1.85402453462329
+10089,Clark-Larson,Clothing,2.7786079779687043
+10037,Briggs and Sons,Grocery,4.683860652698925
+10002,Taylor and Sons,Restaurants,4.28676342177729
+10012,"Lynn, Ortiz and Lane",Grocery,2.0712008439601224
+10013,Castro-Frazier,Electronics,4.753452620743749
+10077,"Smith, Jackson and Robinson",Travel,4.395975212921963
+10060,"Crawford, Nguyen and Boyle",Electronics,2.1986131626908767
+10098,Goodwin and Sons,Electronics,3.9116160616893865
+10085,"Smith, Simmons and Flynn",Restaurants,4.038996023941599
+10055,"Hardin, Jones and Patton",Grocery,2.305208453089175
+10009,"Santana, Perkins and Singleton",Travel,2.7350673604858073
+10016,Curtis-Diaz,Electronics,2.507132125688636
+10053,Smith and Sons,Restaurants,2.900090831455076
+10014,"Foley, Hardin and Hernandez",Travel,1.469729448073445
+10070,Stephens-Graham,Electronics,4.502378395066174
+10032,Lucas-Miller,Grocery,1.2902488549919005
+10093,"Phillips, Mcgee and Gordon",Restaurants,1.5345155298232047
+10047,Anderson Group,Travel,1.0733202564636102
+10039,"Whitehead, Brady and Tucker",Grocery,4.303830222096083
+10092,"Hansen, Sims and Duncan",Restaurants,4.367436348631671
+10095,Curtis-Graves,Restaurants,3.6685839414253585
+10014,Peterson-Henderson,Electronics,1.2500691770808383
+10098,Evans-Mora,Travel,1.3421768142554469
+10004,Stephens Group,Restaurants,4.646526768426989
+10088,"Duncan, Bradley and Stein",Grocery,3.9104444253098998
+10075,Hurley-Alvarez,Electronics,2.212312903462601
+10001,Lee-Douglas,Electronics,1.2843568887654646
+10038,Wright-Taylor,Grocery,3.0378073190463484
+10078,Hall-Bush,Electronics,2.843468074590566
+10082,Wagner Group,Electronics,2.336914582588936
+10035,Mitchell-Davis,Travel,4.224571809651115
+10061,Lewis and Sons,Grocery,2.1170618481609838
+10006,Kelly-Jensen,Electronics,2.2525478981163287
+10019,Lopez-Ortiz,Restaurants,4.613978929906965
+10097,"Burnett, Lee and Richards",Restaurants,2.885646795863054
+10011,Gallegos LLC,Electronics,3.0106251075351573
+10045,Johnson-Elliott,Grocery,1.4624400317947543
+10078,Baldwin-Miller,Grocery,3.8677734543585434
+10051,Carter LLC,Electronics,2.501717965729256
+10010,Jackson-Maxwell,Clothing,4.301591212643163
+10080,Bailey-Cummings,Travel,4.201754870571021
+10068,Nguyen-Moore,Travel,4.133362484222996
+10008,Luna-Harris,Electronics,1.791810211364563
+10017,"Allison, Brown and Lee",Restaurants,4.311742296497526
+10089,Hernandez-Reyes,Restaurants,4.146074084731468
+10083,Salinas Ltd,Restaurants,1.2876268920580793
+10092,Li LLC,Travel,2.761781229254856
+10074,"Smith, Graham and Evans",Restaurants,2.4046882924813855
+10094,Rojas Ltd,Electronics,3.1455164886083167
+10050,"Lopez, Burns and Johnson",Grocery,2.390832436899853
+10090,Ross-Barrett,Travel,4.948959436920794
+10070,"Smith, Day and Hall",Clothing,1.1421560854422155
+10009,Conner-Morgan,Travel,3.3654389705619923
+10078,Benton-Baker,Grocery,4.879236898915483
+10093,Spears-Smith,Electronics,4.903697355682045
+10056,Medina-Pittman,Restaurants,3.387594372724681
+10043,Nixon-Campbell,Electronics,2.3939847273171484
+10099,"Schultz, Ferguson and Wise",Grocery,3.1886616973076007
+10096,Reynolds-Guzman,Grocery,1.638764091679878
+10024,"Smith, Schmidt and Carr",Grocery,1.5674055810113505
+10068,Singh-Leach,Clothing,1.0143210069454027
+10095,"Hall, Mcfarland and Heath",Travel,1.0609902378150782
+10044,"Ross, Rojas and Long",Travel,3.9924516660006235
+10100,Wall LLC,Clothing,4.551269606902741
+10058,Marquez Ltd,Grocery,1.5108680034026247
+10006,"Wilson, Ross and West",Clothing,2.649662459438613
+10086,"Sullivan, Gardner and Jackson",Restaurants,3.494899365661932
+10012,Harmon-Brock,Electronics,3.44190262494866
+10040,Davis-Miller,Grocery,2.9646498885791304
+10013,"Matthews, Hopkins and Turner",Grocery,3.670011503746767
+10065,"Fuller, Brewer and Travis",Grocery,4.6256722720749055
+10029,Rubio Inc,Grocery,3.2879054601188926
+10026,Moss-Warner,Restaurants,3.1086649773202555
+10049,Trevino-Joseph,Clothing,2.1105008505152942
+10011,"Ortiz, Moran and Gray",Clothing,1.3484687489164648
+10100,Pratt-Kramer,Restaurants,2.0444194135199454
+10050,Campbell Group,Electronics,2.173010271751357
+10026,Owen-Young,Travel,2.116700794191477
+10066,"Marquez, Peterson and Smith",Electronics,3.7468692078405756
+10092,Gould Group,Electronics,3.841759022229283
+10087,"Gibson, Adams and Fox",Restaurants,4.143353268859899
+10036,Smith-Bartlett,Restaurants,2.0754138067591934
+10066,Jones LLC,Grocery,2.776618876962625
+10082,Barnes and Sons,Travel,3.398051192605694
+10096,Torres-Martinez,Electronics,1.3008803137693081
+10042,Suarez Ltd,Clothing,3.1718801113573245
+10035,Mann and Sons,Electronics,4.36209338581633
+10096,Arroyo LLC,Electronics,2.4706155476616165
+10037,Vance-Serrano,Electronics,3.8180241722975765
+10012,Stevens and Sons,Electronics,3.5197916535696314
+10052,Baker Ltd,Clothing,1.7995611864303145
+10088,"Bennett, Barnes and Kennedy",Travel,3.386821903267266
+10087,Phillips-Sanchez,Clothing,3.712780765039604
+10023,"Rivera, Hamilton and Gill",Electronics,2.2246658661538383
+10046,Suarez-King,Electronics,2.4455122180160433
+10067,"Bauer, Whitney and Nicholson",Travel,1.266038499126401
+10039,"Benson, Wilson and Long",Grocery,3.6691490830436786
+10065,Ellis-Vincent,Grocery,4.69983130349489
+10048,Galvan Group,Travel,4.065555692373545
+10034,Evans-Pham,Electronics,2.3840756002726584
+10043,Davis Group,Travel,3.0814640615701996
+10085,"Chen, Young and Cannon",Travel,2.420285457257442
+10065,Moreno-Franklin,Travel,2.8000446824087035
+10007,Hayes-Silva,Travel,3.821573725604676
+10010,"Murphy, Willis and Lucas",Electronics,1.0676022896635957
+10035,Clark-Rowe,Clothing,2.5366552485867224
+10013,Black PLC,Clothing,2.2494144800451465
+10053,Larson Ltd,Clothing,1.0930301035540304
+10078,Franco-Nixon,Clothing,1.8291281340196597
+10014,"Price, Greer and Nichols",Travel,3.226511914676865
+10034,Stevenson Group,Restaurants,3.2678926413165237
+10089,"Warren, Marshall and Herring",Clothing,4.6683592228072355
+10027,Brown-Brown,Restaurants,1.1551286762774127
+10091,"Johnson, Clements and Dawson",Travel,3.726842266222956
+10098,Dillon LLC,Clothing,3.9331727515081005
+10028,"Torres, Lynch and Hernandez",Restaurants,1.8089658148060335
+10055,Wang-Gallagher,Electronics,1.0377069171534963
+10073,"Wright, Lee and Erickson",Grocery,1.0002159183699706
+10047,Bolton-Giles,Electronics,4.8238840433804
+10078,Morse LLC,Grocery,1.0324319926469525
+10052,James PLC,Electronics,3.4666795876071372
+10097,Myers-Nelson,Travel,4.073596767603204
+10099,Miller-Hodges,Grocery,4.464525980914862
+10045,Rich and Sons,Restaurants,1.3505504672317308
+10086,Martinez and Sons,Clothing,3.8051576468150716
+10014,Black PLC,Restaurants,4.923497668029027
+10051,Harris-Fleming,Restaurants,4.71753780123011
+10089,"Bennett, Gordon and Bruce",Electronics,3.0492695628432216
+10041,Duncan-Mccann,Travel,1.9249904391486683
+10083,Shea PLC,Restaurants,4.817220560024401
+10016,"Tran, Frank and Gonzales",Travel,1.0797251568947375
+10092,Combs PLC,Electronics,3.823190442053043
+10069,Carroll-Johnson,Restaurants,2.0127418902713456
+10036,"Jones, Pacheco and Wheeler",Clothing,2.2883641803071155
+10084,Nunez Group,Electronics,4.694915662881371
+10046,"Anderson, Watts and Frank",Grocery,1.4976192388310499
+10038,"Hanson, Shaw and Garner",Electronics,1.4737235139512261
+10023,Boyd Ltd,Travel,2.5687621322743026
+10100,Wolfe Group,Electronics,3.50830168347189
+10016,"Jones, Shannon and Singh",Electronics,3.9745991112728007
+10069,Spencer Ltd,Restaurants,2.6422779044930906
+10052,Peterson and Sons,Restaurants,3.1679995132989887
+10042,Patterson-Rogers,Clothing,3.1181516731617633
+10051,James-Perkins,Grocery,1.1440125054368053
+10053,"Kelly, Walton and Greene",Electronics,2.4246737627819526
+10025,Smith-Johnson,Electronics,3.329826718487448
+10054,Moyer and Sons,Travel,2.8617989940652735
+10031,Romero and Sons,Clothing,2.7862670106080865
+10091,"Martin, Barker and Warren",Restaurants,1.1031466020685161
+10045,"Allen, Wright and Davidson",Travel,2.8332620726868316
+10097,"Rose, Wilson and Summers",Travel,1.534999081037181
+10082,"Taylor, Jones and Maynard",Clothing,1.4484138467188297
+10079,Rhodes-Powell,Restaurants,1.083303722014179
+10096,Villegas-Howard,Electronics,3.211999799563485
+10079,Gay LLC,Travel,2.5474765871125884
+10067,"Leonard, Fernandez and Drake",Travel,2.531626674882961
+10010,"Morrison, Munoz and Knight",Electronics,2.395213008535013
+10037,Moore Ltd,Grocery,2.6782883036445395
+10030,Phillips LLC,Grocery,1.2698550420762338
+10052,"Woods, Hughes and Rubio",Restaurants,2.142315664927449
+10036,Li Group,Clothing,3.4434160878663076
+10084,Petty PLC,Clothing,4.107539379536783
+10037,Powell-Blake,Travel,3.67710230231823
+10079,"Gill, Fowler and Kerr",Travel,1.270564154588921
+10005,Garner-Weaver,Clothing,4.723728616097885
+10004,Hernandez Inc,Grocery,1.667455052474676
+10073,Oconnor-Jimenez,Travel,2.5399778167218914
+10075,"Martin, Gibson and Bradford",Grocery,2.1579444633462357
+10063,Mckenzie LLC,Restaurants,4.568681531188802
+10012,"Goodwin, Fowler and Smith",Electronics,2.8383724122669083
+10029,Parker-Decker,Clothing,1.9987872021900834
+10012,"Fletcher, Howell and Salas",Electronics,3.4060564582165553
+10010,"Harris, Jones and Vaughan",Grocery,3.3647264923845985
+10019,Johnson-Stevens,Clothing,4.65489643217201
+10000,Moss-Martinez,Grocery,2.283026162702111
+10006,Gomez Ltd,Grocery,4.186176616394782
+10096,Kelly LLC,Travel,1.6602586228001246
+10091,Greene-Smith,Travel,4.862271487226037
+10008,Williams-Briggs,Restaurants,1.2720880438304527
+10043,"Johnson, Brandt and Luna",Electronics,3.4108976947377103
+10067,"Gutierrez, Knox and Williams",Clothing,1.4855237851524428
+10028,Patterson PLC,Restaurants,2.4557499512040804
+10048,Norris Inc,Grocery,4.320895352633754
+10070,Smith-Hernandez,Electronics,4.188897603996038
+10032,Carrillo Ltd,Restaurants,3.4548224673537087
+10053,Woods Group,Travel,1.1837676667428858
+10082,West Group,Travel,3.0564149814227437
+10094,Ball Inc,Clothing,4.962339997707897
+10054,Walton-Vincent,Travel,3.9867644404117524
+10065,Jones-Bryant,Clothing,2.6419201029029895
+10047,"Smith, Chang and Davis",Restaurants,2.3311904460931387
+10032,Cook-Anderson,Electronics,1.4468665288361828
+10018,Silva-Adams,Restaurants,2.780136059046699
+10052,Smith Group,Travel,1.3371498838270357
+10061,Johnson and Sons,Clothing,1.5407334340422572
+10031,"Patton, Mathis and Chandler",Electronics,3.2866913142547705
+10078,Armstrong-Allen,Grocery,3.665370367963103
+10077,White LLC,Restaurants,3.6379168923396823
+10056,Mendoza-Smith,Clothing,1.2705248113155911
+10006,Rodriguez Ltd,Travel,3.4224940385865765
+10002,"Graves, Cuevas and Day",Grocery,3.6858450705602666
+10042,Davidson Inc,Restaurants,2.0462263452489644
+10077,Luna and Sons,Electronics,1.2430292773206384
+10014,Dominguez and Sons,Travel,1.590004642888327
+10028,Swanson and Sons,Electronics,4.267798677925642
+10091,"Cherry, Neal and Boyd",Clothing,1.1329145442415212
+10006,"Smith, Norton and Clark",Clothing,3.1023403924201256
+10011,Vang and Sons,Grocery,4.471627581491836
+10092,Smith-Obrien,Restaurants,4.015305363494562
+10072,Thompson-Willis,Clothing,2.1798645332952433
+10003,"Pena, Warren and Obrien",Clothing,2.8491145373964724
+10098,"Hull, Griffin and Williams",Travel,1.7654116872437613
+10020,Burgess PLC,Clothing,4.376547225659062
+10048,Frank Inc,Electronics,3.259889331508344
+10015,Simon-Phillips,Clothing,2.292738224940283
+10072,"Moore, Torres and Brown",Restaurants,4.780684451658753
+10089,Jones-Navarro,Clothing,2.234478049741175
+10075,Fitzgerald LLC,Electronics,4.680416300188718
+10057,"Estes, Jones and Coleman",Clothing,3.380292816321829
+10080,Lucas-Price,Restaurants,3.238093006082948
+10048,"Chandler, Anderson and Gregory",Grocery,2.5918600231711406
+10100,"Wilson, Black and Mason",Grocery,3.2572334720708076
+10030,Brooks LLC,Travel,3.968304918996192
+10019,Sloan-Miller,Grocery,3.2108379613772136
+10074,"Mccarty, Padilla and Ball",Grocery,4.385191627226978
+10010,Mendez and Sons,Grocery,4.583522528360458
+10055,Rhodes Ltd,Grocery,3.985855648876157
+10049,Thompson and Sons,Grocery,1.2854022346482519
+10034,"Wiley, Cruz and Jones",Grocery,2.020823132200913
+10097,Welch Ltd,Travel,2.957851444242763
+10076,Gould-Johns,Restaurants,4.307886454043241
+10007,"Lewis, Robertson and Hess",Travel,3.7837199364319263
+10009,"Collins, Nelson and Chambers",Grocery,4.747736259049065
+10010,Mccarthy LLC,Electronics,2.0399252079470607
+10049,Holloway-Henderson,Grocery,1.8870912417324757
+10066,Stone LLC,Travel,3.9075355292223852
+10056,Ford-Best,Electronics,4.446217691778855
+10072,Romero-Joseph,Grocery,1.4082227700300844
+10077,Parrish LLC,Clothing,2.6613035432779957
+10081,Jackson Inc,Electronics,1.368654587641208
+10041,"Montes, Brown and Johnson",Clothing,1.8046793091634399
+10009,Ruiz Inc,Grocery,3.053138829800143
+10024,Martinez-Hoffman,Restaurants,2.2812394426196767
+10091,Smith-Smith,Grocery,4.238403465474553
+10029,Daniel-Green,Travel,2.622066728021335
+10003,"Payne, Hood and Oneal",Travel,2.357207711840284
+10020,Graves and Sons,Electronics,1.0629728896514097
+10077,Richardson Group,Electronics,1.4772940338582679
+10006,Navarro Group,Grocery,2.4082825343576304
+10073,"Harper, Rodriguez and Lewis",Clothing,3.1884791733262734
+10079,Barnes Inc,Restaurants,4.038834677511492
+10001,Hill Inc,Clothing,4.767997436301194
+10098,Wagner Ltd,Grocery,3.5787654122194406
+10051,"Schultz, Allison and Rogers",Clothing,4.700071560404364
+10066,"Villanueva, Hubbard and Keith",Travel,1.3547685529385767
+10080,"Pope, Payne and Moran",Restaurants,2.7504541019911324
+10094,"Miller, Baker and Caldwell",Grocery,2.1343294238714328
+10055,Morrison PLC,Travel,1.9001442669346447
+10032,Luna and Sons,Grocery,1.3672546862110635
+10056,Sanders-Russell,Clothing,1.5780569859888018
+10086,Moore-Galloway,Clothing,2.580191569922426
+10056,Bailey-Mclaughlin,Electronics,2.715769205366018
+10071,"Schwartz, Gregory and Powell",Travel,4.612332659968238
+10019,"Wallace, Henson and Price",Clothing,1.444092739673326
+10029,"Campbell, Hester and Wang",Travel,1.6249407211110665
+10051,"Cantu, Norman and Snyder",Electronics,1.4106227670086784
+10068,"Evans, Miller and Lambert",Grocery,1.0224922387303095
+10066,Baker LLC,Grocery,3.8082987467956926
+10095,Gonzalez-Woods,Electronics,4.398394043822625
+10046,Simpson-Robbins,Travel,4.893652052656274
+10004,"Smith, Collins and Foster",Clothing,3.721768234623015
+10048,"Suarez, Pitts and Roberts",Grocery,3.987183142931239
+10022,Johnson Group,Travel,1.4740097250928637
+10071,Wilcox-Wallace,Clothing,1.3349337863900335
+10092,"Hughes, Chambers and Griffin",Travel,2.3663276584738293
+10100,Chase LLC,Restaurants,4.538513017828366
+10089,Davis Ltd,Electronics,4.908000395585924
+10089,"Peterson, Oliver and Gillespie",Travel,1.823618754513047
+10006,Hancock LLC,Restaurants,3.6444507529350423
+10087,Perez-Esparza,Electronics,1.551735927376122
+10045,Smith LLC,Electronics,1.131779918295388
+10049,Snyder Ltd,Grocery,2.340562959573771
+10030,Garcia-May,Grocery,1.2274183912774626
+10071,Larson-Mitchell,Grocery,1.1031394320522878
+10040,"Reid, Miller and Garcia",Clothing,1.075459910017658
+10010,"Martin, Sherman and Cain",Clothing,1.8066836202676408
+10039,Benjamin-Blake,Restaurants,2.6567028639016255
+10067,Hall-Irwin,Travel,3.834385306096103
+10031,Abbott-Stokes,Grocery,4.653965369479432
+10098,"Williams, Freeman and Ochoa",Grocery,2.400309116860912
+10057,Garrett-Lawson,Travel,4.6914570529517
+10008,Stafford-Tapia,Grocery,4.1725103375955435
+10033,"Scott, Fletcher and Bullock",Electronics,2.064840065578463
+10008,Shields-Lyons,Electronics,2.3211596122984517
+10053,Evans Inc,Travel,3.4523951749620934
+10084,Munoz LLC,Restaurants,3.7181378727399927
+10093,Lee Inc,Electronics,1.571654630977796
+10046,Henderson LLC,Clothing,1.4784585438152869
+10002,"Cherry, Miranda and Robinson",Travel,1.1913912558606041
+10056,Cannon-Olsen,Restaurants,1.9117749482245001
+10042,Wilkerson Ltd,Travel,3.5675104043334316
+10025,"Welch, Gonzalez and Allen",Electronics,3.056294415981602
+10072,Sullivan Group,Grocery,4.730172021346702
+10022,Ochoa Group,Electronics,2.3033448998978265
+10054,Matthews PLC,Travel,3.2143829137243483
+10057,"Hess, Gomez and Taylor",Travel,4.639915507758931
+10037,Walter-Burke,Electronics,4.285453529768766
+10088,Nunez Inc,Restaurants,3.833228524854653
+10001,Ross PLC,Restaurants,3.542075301631954
+10058,Powell-Mann,Travel,4.819126681796656
+10002,"Ruiz, Price and Sutton",Restaurants,1.9299425857850978
+10084,Murphy and Sons,Travel,4.903050578258156
+10068,Williams-Martin,Electronics,3.73063511216499
+10055,Richardson-Rodriguez,Grocery,2.9537626844396287
+10048,Duncan and Sons,Electronics,4.10485420582894
+10051,"Simon, Lang and Andrade",Grocery,2.8732301701451486
+10026,"Gray, Patterson and Thomas",Electronics,2.6907567854910472
+10001,"Coleman, Clark and Johnson",Grocery,3.0838283541366303
+10004,"Peters, Chase and Edwards",Electronics,1.1903977135201056
+10041,Landry and Sons,Electronics,2.670701180559329
+10089,Rivera-Dunn,Travel,3.271208528942506
+10023,"Burke, Thomas and Cook",Restaurants,4.76224679886372
+10050,Miller-Bruce,Electronics,3.056542513641163
+10059,Aguilar-Caldwell,Clothing,3.4711164232446623
+10023,Oneill-Haas,Travel,2.587401020780862
+10063,Ryan Inc,Restaurants,1.3475516035395576
+10086,Williams Inc,Clothing,1.6883972156269778
+10049,Stewart-Nelson,Restaurants,4.015875052521595
+10068,"Rivers, Perez and Cowan",Restaurants,2.5335401402597677
+10073,"Hunt, Morgan and Diaz",Clothing,3.3409451176489524
+10071,Brewer Ltd,Travel,4.667639823611426
+10040,Hicks PLC,Restaurants,4.666525665747375
+10021,Bennett Inc,Clothing,4.69463746829053
+10047,Rivera-Kennedy,Travel,4.124947183008381
+10014,Richardson Inc,Electronics,3.993169268647765
+10078,Campbell PLC,Electronics,3.4062631187927117
+10089,Finley PLC,Grocery,3.8362505198044192
+10073,Smith-Fisher,Grocery,3.4642164924556336
+10033,Church-Olsen,Restaurants,4.147946890730307
+10017,Baker-Lloyd,Restaurants,2.0495205823217844
+10061,"Blevins, Gonzalez and Soto",Restaurants,2.134880403102237
+10087,Ramirez Inc,Electronics,2.4115555806618008
+10002,Preston and Sons,Restaurants,4.17415147144661
+10077,"Gomez, Parker and Ferguson",Restaurants,2.748056190300476
+10043,Rogers-Barrett,Clothing,2.0019859948833285
+10014,Clements Inc,Clothing,4.208253336574675
+10055,Cummings-Owens,Restaurants,4.190368479823022
+10015,"Medina, Haynes and Henry",Electronics,4.9185896062552406
+10041,Bonilla-Paul,Electronics,2.100439283013396
+10079,Rivera PLC,Grocery,4.43452644831667
+10051,Turner-Wagner,Grocery,2.0039196477353087
+10069,Mccullough Group,Grocery,4.300594106342323
+10027,Bonilla Ltd,Clothing,2.2784850996458297
+10067,Santana-Nelson,Electronics,2.2437797856507693
+10056,"Hamilton, Morales and Marshall",Grocery,4.483764564669688
+10027,Brown-Jimenez,Electronics,4.444478644528246
+10060,"Smith, Smith and Spencer",Electronics,2.380703818260998
+10035,Castillo Group,Travel,2.2798781467337905
+10014,Hernandez and Sons,Electronics,1.1995997188898206
+10085,"Thompson, Gomez and Orr",Travel,3.972780035663508
+10085,Peterson PLC,Clothing,2.1448976378651987
+10070,Edwards-Paul,Travel,1.8215895369773056
+10009,"Daniel, Stewart and Johnson",Clothing,4.1639152374728035
+10008,"Duncan, Moore and Walker",Restaurants,1.2688525927211183
+10017,"Hamilton, Allen and Barnes",Clothing,3.1008844952113934
+10012,Thompson-Cole,Travel,1.9010170669490192
+10091,Becker Ltd,Travel,4.231571070746222
+10097,"Campbell, Owen and Mendoza",Clothing,4.053633963199898
+10004,"Williams, Smith and Pham",Travel,2.1569765827665566
+10054,Johnston-Garcia,Clothing,3.9174002898929268
+10019,Parks-Coleman,Clothing,2.261013709786104
+10072,"Mcintyre, Barnes and Paul",Clothing,3.962228022626478
+10080,French and Sons,Restaurants,1.4447602385401068
+10021,Nelson-Willis,Clothing,4.8343441289502955
+10021,Garrett-Romero,Restaurants,1.7768314303054287
+10002,Middleton-Bennett,Travel,3.9056477056423162
+10049,Sharp-Best,Restaurants,2.036378454253499
+10093,"Gordon, Aguirre and Higgins",Travel,4.467725510790078
+10076,Mitchell PLC,Restaurants,4.858644711231914
+10098,Williams LLC,Travel,2.1579385215962756
+10063,Bernard-Castillo,Travel,2.4950228382895
+10054,"Villarreal, Smith and Suarez",Travel,2.381372583932626
+10053,Jones-Adams,Grocery,2.5392308589471915
+10016,Schaefer and Sons,Grocery,4.913182763027548
+10077,Davis-Walker,Travel,4.3639940063407705
+10083,Roberts-Douglas,Travel,4.991903990727158
+10025,Pruitt-Brown,Electronics,4.535116791697925
+10041,Brock-Adams,Travel,2.386957389802293
+10070,Hall Group,Clothing,2.2417347539170334
+10073,Villa-Peters,Grocery,2.5545925164925087
+10026,Sullivan LLC,Restaurants,3.7104055557368247
+10086,"Riley, Horne and Daniels",Grocery,1.5458855276997916
+10058,"Black, Shelton and Lee",Clothing,2.5344207538391474
+10094,Zimmerman-Conner,Clothing,2.7874462747309674
+10014,Rose LLC,Grocery,2.47552255499443
+10006,"Oneal, Stephens and Mason",Travel,2.8886122721136642
+10069,Ramirez Inc,Clothing,4.270529113745381
+10093,"Warren, Ford and Reyes",Electronics,2.4840898055027885
+10023,Kelley-Gibson,Restaurants,2.194347116079301
+10041,"Park, French and Escobar",Restaurants,3.498087814017654
+10072,"West, White and Petersen",Travel,3.9814945783371365
+10067,"Gardner, Smith and Goodman",Electronics,4.647307402889609
+10027,"Simpson, Finley and Lee",Clothing,2.7997092204548757
+10038,"Rasmussen, Jacobs and Turner",Grocery,3.0751258163319046
+10033,"Edwards, Harrison and Murphy",Restaurants,1.0246378148989272
+10003,Brown and Sons,Electronics,1.168453826560342
+10021,Owens-Bradford,Electronics,3.7499954595067555
+10046,Stanley and Sons,Electronics,4.305283146330246
+10059,"Harris, Jensen and Whitaker",Restaurants,2.9568204465074346
+10016,Gibson and Sons,Restaurants,2.442350271514395
+10008,"Graham, Butler and Bennett",Grocery,4.840332790990432
+10031,Salazar-Arroyo,Travel,1.4857363807981865
+10013,Kemp-Zuniga,Travel,3.4053817786172997
+10097,"Callahan, Matthews and Castro",Restaurants,3.061498101109711
+10025,Bruce-Morales,Grocery,3.551625428491431
+10066,"Harper, Bowers and Clark",Restaurants,4.739798364894424
+10029,"Hughes, Hayes and Smith",Grocery,1.13748322880511
+10002,Blair Group,Clothing,2.7684567550442103
+10038,"Ayala, Dawson and Lopez",Clothing,3.7650592168749637
+10085,Smith LLC,Grocery,3.1551426221727006
+10056,"Rodriguez, Berg and Whitehead",Clothing,3.976434763962426
+10073,Harmon-Smith,Travel,1.489685651840262
+10068,Mccarthy Group,Travel,1.2140595452871015
+10057,Ross-Green,Restaurants,2.8942429942246983
+10043,Robinson-Mcmillan,Clothing,4.560918753716564
+10045,Page PLC,Restaurants,3.3804905673451704
+10050,"Mclean, Cruz and Lopez",Clothing,2.98970331061642
+10099,Johnson LLC,Travel,1.1687378199331548
+10027,Rodriguez-Stevenson,Electronics,2.5955899477198607
+10010,Zimmerman and Sons,Restaurants,3.8972991762983376
+10042,Richardson-Avila,Grocery,1.192484521056945
+10059,Martinez Group,Restaurants,2.7102406648544677
+10096,"Huffman, Erickson and Owens",Travel,1.7649199698659328
+10090,Brooks PLC,Travel,3.689256919269873
+10029,Garcia-Ford,Travel,2.166002536052688
+10092,White Inc,Clothing,4.244897401979523
+10040,Cooper Group,Restaurants,3.8656014170331785
+10061,Jones Ltd,Travel,1.586998127359868
+10041,Bridges-Barton,Restaurants,2.0885218978801836
+10068,Francis Inc,Restaurants,3.8534267535286344
+10087,Oneal Inc,Grocery,1.8607661708930117
+10005,Stewart Ltd,Restaurants,3.3820777091294048
+10035,"Skinner, Ward and Becker",Grocery,4.068388440863286
+10069,Newman Group,Travel,2.4718587240356533
+10000,Jackson and Sons,Clothing,4.808167454424565
+10019,Alexander-Butler,Restaurants,2.940058291929251
+10002,White-Ramsey,Electronics,1.0023979405493102
+10055,Knight Group,Grocery,2.371143276795837
+10079,"Williams, Peterson and Clark",Travel,3.2654104322444555
+10061,Schneider-Trevino,Travel,1.4054787758106908
+10090,"Vaughn, Cline and Wilson",Electronics,3.4679797314064826
+10073,"Davis, Cannon and Miles",Grocery,4.552198585681184
+10007,Hart PLC,Grocery,3.925098082838238
+10079,Zuniga-Johnson,Restaurants,4.1365090832896385
+10027,Lewis-Norris,Clothing,3.8199876089311395
+10025,"Turner, Oconnell and Suarez",Electronics,2.7210994442500134
+10069,"Aguirre, Jennings and Green",Electronics,1.3595508371445302
+10097,"Williamson, Romero and Rubio",Electronics,1.510207090787747
+10057,Collins LLC,Restaurants,4.895337288410037
+10035,"Hill, Huang and Pacheco",Travel,2.4477257875597838
+10065,Guerrero-Webb,Restaurants,1.6722827069350785
+10095,Gray-Gentry,Travel,1.2024620121826035
+10098,Smith-Dean,Electronics,4.7224869110731085
+10031,Johnson-Graham,Restaurants,2.235444319321596
+10005,Miller Inc,Restaurants,4.5027001743419355
+10035,"Martin, Nunez and Chavez",Travel,3.4875366185132513
+10077,"Smith, Brewer and Johnston",Restaurants,3.4045242861865237
+10053,Morales and Sons,Clothing,1.6267404533184444
+10079,Hall and Sons,Electronics,4.547316537314259
+10042,"Wise, Fitzgerald and Estrada",Travel,4.80241169358338
+10064,"Barber, Thompson and Beck",Grocery,4.550545608125638
+10001,Malone-Crawford,Clothing,1.9703728353253163
+10036,"Perez, Taylor and Harris",Electronics,2.0203306615004246
+10058,"Anderson, Lawrence and Garcia",Clothing,2.666275551762088
+10064,Brown-Peterson,Restaurants,3.40229450415649
+10037,"Horne, Chavez and Sanchez",Travel,4.286210157180426
+10084,Brown-Juarez,Travel,4.0057034705989505
+10045,"Castillo, Rich and Harris",Clothing,2.7429023732132705
+10029,Schultz PLC,Travel,1.0313086729379362
+10016,King and Sons,Travel,1.3842339553406378
+10003,Davis-Jones,Travel,4.62061978264239
+10000,Mata and Sons,Clothing,3.2539791396735316
+10016,Perez LLC,Restaurants,2.8328283869410575
+10047,Valdez Inc,Clothing,4.212520864036479
+10037,"Marshall, Rios and Day",Restaurants,4.290225702984335
+10055,Waller PLC,Grocery,3.7842315637127846
+10070,"Jones, Booker and Murray",Grocery,2.5745611105416484
+10018,Williams-Foley,Restaurants,2.3385786564760935
+10011,Perez Group,Grocery,3.4229909475971625
+10047,Ramirez-Mccoy,Electronics,2.3357749530814713
+10043,"Bean, Mason and Brown",Restaurants,4.552916142103365
+10023,"Cox, Sanchez and Huffman",Grocery,4.497081373932614
+10000,"Williams, Doyle and Cameron",Electronics,2.967291102012863
+10022,Alexander-Clark,Clothing,3.601554108553655
+10025,Campbell LLC,Restaurants,2.19761581510738
+10087,Forbes and Sons,Electronics,1.494632888455849
+10001,Dawson-Gray,Grocery,2.005165686524354
+10007,"Mason, Coleman and Scott",Grocery,1.0562117977100849
+10020,Fox Group,Travel,3.1152299098237384
+10026,Green Inc,Restaurants,1.8464540382469488
+10030,Clark-Olsen,Grocery,4.4646009890684235
+10028,"Smith, Thompson and Wu",Restaurants,4.791404338479608
+10039,Kelly Inc,Travel,3.2333522220077393
+10034,Fletcher-Burgess,Travel,4.437444521435039
+10005,"Baker, Sandoval and Chavez",Travel,3.7247588395619315
+10090,"Austin, Bradley and Stone",Travel,1.3838206722496
+10072,Welch-Blanchard,Clothing,3.3422415637606275
+10062,Esparza LLC,Travel,4.814729975280764
+10073,Hansen Ltd,Grocery,1.057730017832823
+10038,Ray Inc,Electronics,4.129999266040995
+10009,Cross-Alvarez,Electronics,1.4246268986032513
+10074,Marsh Group,Clothing,4.425020658313461
+10098,"Cross, Tucker and Pham",Travel,1.105113684638508
+10051,Nguyen Ltd,Clothing,1.331466827236711
+10082,Hall-Turner,Electronics,1.2970715728668276
+10028,Farley Ltd,Clothing,2.3653439859320615
+10005,Soto Inc,Electronics,3.185236717723065
+10027,Barron-Walker,Grocery,3.743717278134574
+10025,Miller Ltd,Grocery,1.1476060696421806
+10017,Choi Ltd,Restaurants,4.618123625016812
+10090,Williams-Scott,Clothing,3.1827627256168087
+10058,Bishop-Cardenas,Grocery,1.5703138284818499
+10082,Arnold-Chambers,Restaurants,3.4164332650850375
+10068,Blair-Chen,Travel,3.1212816314131517
+10027,"Perkins, Hernandez and Benton",Grocery,2.2748780739280465
+10065,"Williams, Phillips and Turner",Grocery,4.619956036174331
+10068,"Randolph, Johnson and Pearson",Grocery,2.8741459757950576
+10062,"Campbell, Bernard and Taylor",Clothing,3.228395004818939
+10027,Ballard-Guzman,Restaurants,2.3209356132963954
+10057,"Evans, Ramos and Stephens",Restaurants,3.913495200482808
+10074,Collins Ltd,Clothing,4.839066081688782
+10071,"Jones, Kelley and Williams",Travel,4.341427756455802
+10100,Gonzalez-Roberts,Clothing,4.580394126220824
+10036,Hamilton-Evans,Grocery,3.078242344403408
+10091,Mccormick LLC,Grocery,4.9082049502869936
+10058,Brown Ltd,Electronics,1.7263430237137922
+10054,Li-Lawrence,Electronics,4.907463574642101
+10082,Evans LLC,Restaurants,2.7167169491533016
+10034,"Greene, Bryant and Wagner",Electronics,2.7865542577321367
+10097,"Blankenship, Cook and Shaw",Electronics,2.309307323141602
+10075,"Burns, Lane and Scott",Clothing,3.534005293376206
+10085,Malone PLC,Electronics,2.02676476588556
+10015,Parker-Bennett,Electronics,1.705759870388344
+10030,Johnson Group,Travel,2.2993513912573933
+10084,Schneider Inc,Restaurants,1.1356143588480307
+10100,"Jackson, Hood and Dawson",Electronics,3.135953826092383
+10039,Brock-Chandler,Clothing,1.4119296170586857
+10051,"Sullivan, Holloway and Mcdaniel",Travel,3.8922441853720415
+10002,"Lynch, Horton and Greene",Travel,4.283867179249206
+10085,Palmer PLC,Electronics,3.006939942415149
+10078,Patton-Fuentes,Travel,3.7867603856839174
+10039,"Gutierrez, Reilly and Sims",Grocery,1.2646658581640615
+10032,"Bryan, Scott and Thompson",Clothing,1.5035380631839526
+10090,"Jones, Baker and Smith",Restaurants,1.165347490319891
+10046,Wallace PLC,Clothing,2.4886743944784917
+10021,Bishop-Jones,Clothing,2.829618698621109
+10079,Jones-Green,Clothing,4.801779448359088
+10042,Herrera-Anderson,Clothing,2.763275334676141
+10039,Mccoy-Rivera,Grocery,2.1881460353564766
+10016,Nicholson PLC,Restaurants,3.238740774354003
+10070,Cordova Group,Grocery,4.281897639528635
+10003,Collins-Roberts,Electronics,2.032699943725831
+10070,"Johnson, Edwards and Daniels",Restaurants,2.4566371615803035
+10063,"White, Morales and Keller",Restaurants,1.6639506286702823
+10041,Thompson LLC,Grocery,3.523536295338712
+10074,Bishop-Johnson,Electronics,1.3325456467931138
+10030,"Huerta, Stephens and Fuentes",Restaurants,1.7859664359616483
+10094,Murray-Phillips,Electronics,4.54035335570044
+10027,"Watkins, Walker and Weber",Travel,2.8462687627628207
+10046,Davis-Stanley,Restaurants,2.6086096277433493
+10066,"Alvarez, Jones and Cooper",Grocery,2.1652491515094288
+10054,Brown Ltd,Grocery,3.0930619515983824
+10008,Sanchez-Cox,Clothing,3.2014631886296083
+10030,Medina-White,Clothing,1.9288884994248323
+10069,Doyle-Collier,Grocery,2.3393752805033237
+10088,Madden-Kramer,Clothing,3.687908534752698
+10083,Molina-Thompson,Grocery,3.2060938778834207
+10097,Villegas Group,Electronics,1.9971038558920648
+10025,"Fox, Walker and Simpson",Electronics,3.908616706740766
+10077,Alexander-Sexton,Electronics,4.61801768367752
+10035,"Shepherd, Bailey and Scott",Clothing,4.998060406620459
+10009,"Li, Hoffman and Shaw",Restaurants,3.7205568732032237
+10023,"Finley, Knight and Murphy",Travel,1.480247262153592
+10072,"Lowe, Davis and Jones",Restaurants,1.018788891226957
+10089,Robinson and Sons,Grocery,1.5758028908763584
+10046,"Flores, Kim and Harmon",Grocery,1.1506781938999047
+10062,"Carpenter, Robinson and Powell",Electronics,3.511827453705462
+10038,Peterson-Lynch,Electronics,1.7797381903788922
+10073,Johnston-Carlson,Restaurants,1.6117114725660007
+10069,Jacobson-Stewart,Clothing,3.368516964873555
+10013,"Wilkerson, Cardenas and Petersen",Restaurants,4.383924981555302
+10000,"Willis, Wheeler and White",Travel,4.628138137944909
+10011,"Nelson, Costa and Hawkins",Clothing,2.1622855219924655
+10076,Robinson-Davidson,Restaurants,1.2463410572208344
+10035,Elliott and Sons,Grocery,2.4327685816679314
+10012,Allen-Berg,Restaurants,4.7976784269849055
+10072,Carr PLC,Electronics,3.8926048314093094
+10094,Noble Ltd,Electronics,4.01172999701004
+10085,"Ford, Davis and Shields",Restaurants,2.9357366208463107
+10067,Elliott-Smith,Electronics,3.8263996045302147
+10075,Jackson-Valencia,Restaurants,4.906391691674252
+10001,"Martinez, Huff and Little",Clothing,3.0057081704554593
+10042,Hart-Thomas,Grocery,3.526383554108285
+10074,"Reed, Harrison and Valenzuela",Clothing,1.6315647941162519
+10074,"Johnson, Sharp and Welch",Restaurants,2.5143904300260775
+10008,Martin-Cox,Restaurants,4.814881129156035
+10059,Tucker-Wilson,Grocery,3.688394495262759
+10048,"Pittman, Lynch and Gibson",Electronics,1.0739011723996423
+10097,King and Sons,Electronics,2.800641580811456
+10070,Olsen-Garcia,Electronics,3.1587559157922604
+10079,"Dominguez, Smith and Pearson",Electronics,1.7083419018971973
+10029,"Snyder, Martinez and Gordon",Clothing,4.188983500592306
+10002,Johnston Inc,Travel,4.025799390427073
+10047,"Dillon, Johnson and Morris",Travel,2.0133777479330854
+10020,Flores-Wilson,Travel,2.1597522911644162
+10071,"Cervantes, Livingston and Black",Travel,4.465882450486957
+10067,"Morris, Robinson and Smith",Clothing,2.312049213511889
+10014,"Ramsey, Crawford and Bowers",Travel,2.1133737874325504
+10073,"Oconnor, Rosales and Graham",Restaurants,1.128096663252372
+10016,Diaz LLC,Grocery,4.818513307131738
+10011,Hodges Group,Grocery,2.4000662048624446
+10012,"Garcia, Proctor and Mcdowell",Restaurants,1.086228510666118
+10085,Williams-Charles,Grocery,3.220847525537012
+10090,Glenn-Garcia,Clothing,1.2233973264348803
+10004,"Bell, Brooks and Jackson",Restaurants,3.690118668086618
+10080,Cole-Evans,Grocery,1.0474730494089215
+10011,"Lopez, Gibson and Ramirez",Grocery,1.2056162209353816
+10054,"White, Sanchez and Murray",Electronics,4.626201643254335
+10066,"Smith, Nielsen and Cox",Electronics,1.6865853397073396
+10018,Boone-Irwin,Electronics,3.1483766087030767
+10076,Phillips-Brown,Grocery,3.656522545253726
+10011,"Medina, Fischer and Key",Restaurants,4.98868611211517
+10026,Pierce-Stephens,Grocery,1.565205757870198
+10001,Garcia-Nelson,Electronics,4.523468853884625
+10065,Miller-Robinson,Travel,4.653532964563747
+10001,Sanchez-Young,Clothing,4.990940163371301
+10050,Dixon-Butler,Restaurants,2.7520223561137227
+10098,Scott-Watkins,Electronics,2.2353187896947966
+10013,"Myers, Williams and Johnson",Grocery,1.6000418089187995
+10079,Medina Group,Clothing,1.4074416560709504
+10049,Wilson-May,Restaurants,2.2278676324359896
+10085,Joyce-Murphy,Clothing,2.0408300283900993
+10047,Flores-Clark,Electronics,3.932645039412624
+10089,Jones PLC,Grocery,1.139017142282126
+10087,Castro-Richardson,Clothing,3.614998791284601
+10022,"Moreno, Santos and Boyd",Clothing,2.866000162367588
+10084,"Alvarado, Sharp and Hines",Electronics,2.4816016038509905
+10002,Moore LLC,Restaurants,1.993343519899517
+10014,Morgan Inc,Grocery,1.0708285531984805
+10088,Houston-Washington,Travel,2.0031844680654145
+10015,Kent-Barron,Electronics,3.5419048438503355
+10059,Moreno PLC,Electronics,3.978062528869965
+10082,Erickson-Rogers,Grocery,1.3185128061422162
+10035,Diaz-Duran,Grocery,2.5983947460350967
+10061,Thompson-Thomas,Travel,3.9416214724567333
+10090,Rodriguez LLC,Grocery,2.1910917849782408
+10020,Burnett-Acosta,Electronics,2.3181729015621206
+10008,Dunlap Group,Clothing,4.5762188978216525
+10066,Soto-Weaver,Restaurants,1.8228083260009509
+10099,"Avila, Douglas and Baker",Travel,3.257906106667492
+10044,Smith LLC,Electronics,3.257794855533874
+10005,Rodriguez Ltd,Clothing,4.579568041127292
+10012,Arias and Sons,Electronics,1.134521189380406
+10000,"Smith, Davis and Smith",Restaurants,2.022916694477656
+10085,"Long, Cruz and Harrison",Electronics,4.224699429401076
+10067,Livingston Group,Grocery,3.6259743283008077
+10077,"Thompson, Griffin and Webb",Clothing,2.1749720071097562
+10098,Lyons-Edwards,Grocery,4.296382040613392
+10081,"Dean, Reyes and Jenkins",Grocery,1.0275883561408907
+10006,Davidson Inc,Travel,3.0234106854845084
+10099,"Phillips, Singleton and Castillo",Electronics,1.5371175443118692
+10006,"Alvarado, Joseph and Crane",Restaurants,3.901752814996783
+10032,Christian Inc,Restaurants,3.9834975429947823
+10072,Hall-Dean,Clothing,3.582818239236587
+10071,Gray PLC,Travel,1.5518485155896595
+10049,"Hicks, Jones and Hall",Restaurants,4.487827856872435
+10040,Burton Ltd,Electronics,1.7773175681009192
+10079,Smith-Russell,Restaurants,3.7387017494812103
+10033,Simmons-Hayes,Restaurants,3.33592455522623
+10097,Tate Inc,Grocery,1.7367259832759143
+10000,Brown-Howard,Electronics,4.243536615693548
+10095,Lawson Inc,Electronics,3.789040673051197
+10091,"Taylor, Jones and Wilson",Electronics,4.15313545113759
+10016,Palmer-Hall,Restaurants,4.702805608690218
+10050,Brown and Sons,Clothing,4.73461706484833
+10077,"Chambers, Riley and Brewer",Grocery,4.5190897662337175
+10091,"Myers, Clark and Johnson",Grocery,2.9129269063020864
+10039,Hart Inc,Grocery,4.411224500084244
+10096,Harvey-Jackson,Restaurants,2.5672738975487475
+10003,Williams PLC,Restaurants,1.9639831910736647
+10054,"Kelley, Cantrell and Wong",Restaurants,3.2372158452673183
+10010,Huerta Ltd,Grocery,2.1318002257651907
+10010,Nguyen-Smith,Restaurants,4.189939483338167
+10000,Cooper-Acevedo,Electronics,3.738406179307497
+10032,Gonzalez-Frederick,Electronics,3.950264947508468
+10045,Rodriguez PLC,Travel,2.528635512927662
+10011,"Andersen, Thompson and Hernandez",Electronics,3.584763864843245
+10018,"Lowe, Cooper and Wilson",Restaurants,2.149717952045613
+10029,"Hobbs, Rodriguez and Martin",Restaurants,1.794031446805846
+10073,Thompson Inc,Electronics,2.717494911405038
+10004,Thomas LLC,Clothing,1.3391507559140492
+10093,Callahan LLC,Grocery,4.599602534656029
+10013,Gross-Jimenez,Grocery,2.582884611246407
+10099,Combs-Erickson,Clothing,4.8576295316734095
+10092,Wang-Williams,Electronics,4.30127062574719
+10095,Williams-Nguyen,Travel,4.3962818718193875
+10034,Smith and Sons,Electronics,3.7170844317306897
+10036,"Wade, Montes and Stone",Travel,4.00458946604763
+10098,Brown LLC,Grocery,3.3381929326354385
+10095,Meza LLC,Restaurants,3.726406408975629
+10022,"Reyes, Adams and Branch",Grocery,2.722925640847648
+10068,Dominguez-Flores,Grocery,2.0272443700776335
+10040,"Reese, Wilson and Chavez",Travel,3.8136147191516923
+10049,"Kelly, Griffith and Brown",Restaurants,1.445437495491571
+10032,Mccarthy-Fritz,Electronics,3.422833674482467
+10070,"Cooper, Stevens and Carlson",Travel,4.196072661389328
+10013,"Thompson, Brown and Martin",Electronics,4.282930524630012
+10017,Johnson-Padilla,Restaurants,4.266554016396929
+10082,Taylor-Morales,Grocery,2.660105568657976
+10099,Jones PLC,Restaurants,2.581804076790101
+10025,Houston LLC,Travel,2.716757202145889
+10083,Murphy Ltd,Electronics,4.49349965721842
+10037,Lloyd Group,Clothing,2.1015554772917335
+10002,Reese and Sons,Travel,1.2136939342437838
+10008,"Johnson, Martin and Taylor",Clothing,2.673304937194231
+10013,Mcgee Inc,Clothing,3.99752392212745
+10002,"Bass, Thomas and Conner",Restaurants,4.188576545466522
+10077,"Waller, Diaz and Kelly",Travel,3.852805719774177
+10011,Wang PLC,Travel,3.0473644516904206
+10008,Wise-Williams,Travel,3.3824349337444324
+10035,"Peters, James and Frank",Clothing,1.8879277616616603
+10085,"Best, Graham and Kelly",Travel,3.9491292155474254
+10027,Brady-Lewis,Electronics,2.1583358738314655
+10075,Curry-Powell,Restaurants,1.297777285995119
+10065,"Gonzalez, Spence and Jenkins",Grocery,1.7125566464391522
+10037,Hopkins-Martinez,Travel,1.4678033247036435
+10070,"Gonzalez, White and Morton",Restaurants,3.1568429227407897
+10060,King-Anderson,Clothing,2.3409424288232366
+10028,Gallegos-Jordan,Travel,1.3823400993614512
+10066,"Brown, Burns and Garza",Electronics,1.0732757754216142
+10080,"Jones, Brown and Cox",Clothing,2.8103444062853673
+10098,"Peterson, James and Rowe",Clothing,3.264806587227795
+10090,Welch-Orozco,Restaurants,1.000367047092105
+10051,"Garrison, Carr and Hamilton",Travel,4.707499923267122
+10028,Malone LLC,Restaurants,1.8849258834202618
+10047,"Holland, Fields and Davis",Clothing,4.254632668476461
+10037,Haney-Gordon,Travel,3.6802800408446337
+10044,Boyer-Bass,Restaurants,4.440541961065982
+10022,"Moore, Thomas and Nguyen",Restaurants,2.713037148521577
+10100,"Garcia, Marquez and Peterson",Grocery,4.626458860977859
+10094,Ware-Franklin,Electronics,2.434788970046231
+10032,Jones-Jackson,Travel,1.7333956063482683
+10061,Bates Group,Electronics,1.736024939015493
+10064,Powell Group,Clothing,4.144094468791572
+10084,"Foster, Foster and Foster",Grocery,2.8011835027272496
+10049,"Benson, Tran and Curry",Travel,1.59110584488693
+10044,Baker Ltd,Electronics,3.3088985256681984
+10063,"Little, Chen and Jones",Restaurants,1.3934346504907884
+10034,"Brock, Wood and Young",Restaurants,4.616454330266851
+10027,"Ortiz, Mosley and Baker",Grocery,1.4051738914910095
+10100,King PLC,Grocery,1.8657740482220952
+10086,Cortez LLC,Restaurants,3.9054729178559953
+10063,Fritz and Sons,Clothing,1.3123601462166006
+10056,Payne and Sons,Clothing,3.880447783688126
+10020,Greer-Bauer,Grocery,1.4391164955479296
+10078,"Gutierrez, Townsend and Lambert",Restaurants,3.128483697334083
+10071,Johnson-Hood,Travel,3.623872644657638
+10034,Dean-Parker,Electronics,1.9541492578624933
+10020,Cox-Long,Clothing,4.29886356193616
+10008,Foster-Hoffman,Clothing,3.88803692795844
+10011,Jones PLC,Grocery,3.4546082389418284
+10034,"White, Clark and Shaw",Travel,1.287346194850426
+10012,"Simmons, Turner and Ward",Restaurants,4.073482942525494
+10052,Ford and Sons,Travel,3.5529940616766407
+10067,Todd-Kemp,Travel,3.358840377513766
+10008,"Heath, Hanson and Gonzalez",Restaurants,2.649331693920275
+10083,Rosales Inc,Clothing,1.266261994950188
+10091,Ford PLC,Clothing,4.4511132150617
+10016,Parks LLC,Clothing,4.752417645057018
+10029,Johnson and Sons,Travel,2.589611265529694
+10027,"Torres, Hurley and Manning",Grocery,1.4885764275192415
+10065,"Davis, Newman and Huynh",Restaurants,3.927993631439828
+10078,Riley-Brown,Grocery,2.5633411492937888
+10015,Richards-Miles,Travel,3.4393672089634335
+10008,Ward PLC,Electronics,4.965318855301199
+10072,"Williams, Wilson and Howell",Clothing,2.0211384564541977
+10096,Howard and Sons,Clothing,4.250593908710687
+10026,"Cannon, Edwards and Elliott",Restaurants,3.9778596455511246
+10052,Hall-Barron,Restaurants,1.6109365721176307
+10058,"Jones, Pennington and Rhodes",Electronics,3.662945801555521
+10092,Arroyo Ltd,Clothing,3.4106830955555836
+10027,Richardson and Sons,Grocery,1.788138706799144
+10080,Wyatt LLC,Electronics,4.80755178446339
+10076,"Sparks, Matthews and Perez",Travel,3.248607012856923
+10025,Bowers-Johnson,Restaurants,1.53904341795644
+10015,"Hopkins, Chandler and Rodgers",Electronics,4.130451005249329
+10077,Watson Group,Electronics,1.0574625940836673
+10100,Smith-Scott,Grocery,1.4101564846820325
+10024,Booth LLC,Restaurants,2.0756416011666503
+10089,"Hoffman, Rich and Gonzalez",Electronics,2.78770044457947
+10039,Walker LLC,Clothing,1.5466199112847856
+10048,"Sims, Lee and Hicks",Clothing,3.8825068570342873
+10014,Walsh PLC,Travel,2.413405041279088
+10025,Clark-Ingram,Travel,2.7869085991395344
+10021,Turner-Woods,Clothing,3.2768166982690095
+10002,Allen LLC,Restaurants,3.668074753905077
+10050,Smith-Bailey,Grocery,3.1589006170964913
+10089,Owens-Owen,Travel,4.718598496670383
+10084,Hunter-Ortiz,Travel,4.508125747210238
+10062,Reed-Lewis,Grocery,2.0309973582065206
+10063,Fisher Ltd,Restaurants,3.673958498197155
+10079,"Morgan, Hudson and Cruz",Travel,1.0993459708078395
+10030,Lara-Benson,Travel,3.5242775434997213
+10015,Woodard Ltd,Grocery,1.4139326916968495
+10027,Sherman-Ruiz,Restaurants,1.4665097981032846
+10024,Santiago Ltd,Electronics,2.0911424124654423
+10070,Mendez Group,Clothing,4.8724365371930904
+10099,Salazar PLC,Travel,3.85565752215731
+10096,"Jones, Patel and Smith",Electronics,4.200978924334734
+10038,Baker Group,Grocery,4.138254746868167
+10067,"Allen, Huynh and Hampton",Electronics,4.126006138912577
+10005,Harris-Rodgers,Restaurants,3.2663916414632483
+10037,"Levine, Galvan and Mcintyre",Electronics,4.974570887760459
+10090,Briggs-Walker,Restaurants,4.978243074002109
+10032,"Acosta, Medina and King",Travel,2.2460677143753793
+10023,Castro and Sons,Clothing,1.153636173599149
+10047,Carlson PLC,Restaurants,2.768551902752972
+10017,Eaton-Martin,Travel,2.4990794227930957
+10029,Rice PLC,Clothing,4.7734257608401425
+10097,Simmons-Green,Travel,1.9970763850356401
+10069,Moreno Inc,Clothing,2.5721854042961225
+10097,"Sanchez, Farmer and Christensen",Clothing,3.7115909583297464
+10076,Gonzalez-Vazquez,Electronics,2.9338621394939346
+10014,Cox and Sons,Electronics,4.6778645781356465
+10071,"Brown, Cox and Jenkins",Grocery,2.705623625301996
+10009,Martinez Inc,Restaurants,1.8182314898490177
+10017,Bennett-Davis,Restaurants,4.771175331606187
+10011,"Hunter, Barnes and Anderson",Clothing,4.819778971506744
+10065,Zuniga-Wells,Travel,2.667180666948444
+10006,Smith LLC,Restaurants,4.110843233267336
+10047,Lewis-Bradshaw,Grocery,4.3439285760087
+10006,Bell Inc,Grocery,2.4415177778181762
+10006,Mccormick and Sons,Electronics,1.7781860329655
+10007,"Williams, Rivera and Roy",Travel,2.59567968866908
+10032,Booth-Lamb,Grocery,4.584890730993752
+10073,Petty-Rose,Grocery,3.3671067295303834
+10060,Woodard-Delgado,Restaurants,2.436072220752941
+10014,Brown-Parker,Travel,1.9629624005322452
+10045,"Flores, Garcia and Carrillo",Grocery,2.588049845101557
+10045,Munoz-Smith,Restaurants,1.8840934188353637
+10019,Bartlett PLC,Grocery,2.2458702830658046
+10098,"Allison, Mays and Barnes",Electronics,4.867043472656249
+10057,Young-Ho,Restaurants,2.01273011470652
+10072,Wilson Ltd,Restaurants,2.487473120072774
+10030,Anderson-Proctor,Clothing,1.98443147556831
+10091,Howard-Martinez,Clothing,2.5504277831656723
+10100,Bryant-Wilson,Restaurants,4.432985291345071
+10091,"Miller, Jones and West",Electronics,2.5913439489348646
+10059,Smith-Tucker,Grocery,2.771026487846752
+10041,Marks Inc,Clothing,1.9372681808610404
+10065,Smith LLC,Travel,1.4904530798154365
+10034,Snyder-Hughes,Travel,3.868816361450113
+10076,Smith-Ortiz,Travel,3.4458412109050656
+10055,"Duncan, Christensen and Thompson",Grocery,3.4146894539769215
+10069,"Jones, Young and Rush",Clothing,2.8910901877633
+10094,Jones PLC,Grocery,2.7659884620665647
+10060,Adams Ltd,Restaurants,2.8338118956460834
+10035,Fowler-Vaughn,Electronics,2.0771219829397647
+10025,Odonnell Group,Restaurants,3.483378473729916
+10010,Fitzpatrick Group,Electronics,2.948967566823515
+10063,Hicks LLC,Clothing,2.390265171920848
+10040,"Ray, Bowers and Anderson",Clothing,3.185017972086892
+10036,Powers PLC,Clothing,2.9196381687744273
+10026,Weaver LLC,Restaurants,2.594546624407822
+10013,Bowers-Day,Travel,3.330617811069258
+10042,Wilkins-Myers,Clothing,4.991088396790273
+10006,"Barrett, Schmidt and Beard",Travel,3.9575875550829553
+10023,"Rivera, Daniels and Miranda",Electronics,3.0022606760632793
+10018,"Barker, Clayton and Cruz",Restaurants,2.2610893595664945
+10011,Butler-Mckee,Electronics,2.506040080902244
+10038,Moore Inc,Electronics,2.2019539881107466
+10015,Walters LLC,Grocery,1.656902356364844
+10091,"Green, Keith and Davis",Clothing,4.355272368711578
+10028,Garcia LLC,Restaurants,3.1691566152905137
+10092,Taylor-Shaffer,Restaurants,2.952090770495475
+10008,"Wiggins, Conley and Forbes",Grocery,1.6274410178272603
+10000,Martinez and Sons,Grocery,1.6706686835419773
+10077,Lane-Keith,Electronics,2.736396915825288
+10070,"Foster, Hernandez and Jordan",Restaurants,1.4210583575479379
+10007,"Davis, Herrera and Williams",Electronics,2.663270997226996
+10061,"Gonzalez, Kim and Thornton",Restaurants,2.807778927156439
+10057,Holt-Rosales,Electronics,3.584634310475336
+10007,Johnson Group,Grocery,4.315769201437578
+10052,Brady and Sons,Clothing,3.886408340616652
+10064,Reed-Wright,Travel,3.0447833547275542
+10088,Turner-Wood,Grocery,4.8072470883950835
+10091,"Church, Taylor and Jones",Travel,2.2718345823964516
+10014,Lopez Group,Clothing,2.789450983447252
+10092,"Sims, Reed and Rojas",Electronics,4.014445703146524
+10065,"Stanley, Griffin and Kent",Electronics,3.4706827776563616
+10036,Nichols-Ayers,Electronics,1.6520900509273417
+10100,Hebert-Miller,Travel,4.593858128624937
+10090,Williams-Reid,Travel,2.086580729041071
+10089,Allen LLC,Restaurants,3.9071960608586123
+10082,Smith-Key,Travel,1.7328336249439222
+10077,"Gonzalez, Bennett and Nguyen",Restaurants,2.889463136003875
+10009,Chandler Ltd,Restaurants,4.572601635776883
+10022,"Sparks, Wilson and King",Grocery,3.8695425729633994
+10084,Hicks-Farmer,Travel,3.311936050603749
+10009,"Williams, Bolton and Anderson",Electronics,2.0491765098450587
+10019,Hernandez-Soto,Electronics,1.3370438653602847
+10031,Sanders LLC,Restaurants,4.1854161950884015
+10098,Watkins-Simpson,Clothing,4.052783041427615
+10072,Mccarty-Valdez,Travel,2.023705519497774
+10083,Evans Group,Clothing,3.58894746067181
+10098,Davenport-Smith,Restaurants,1.8097055127626072
+10095,King-Bradford,Travel,4.702376723922908
+10072,Duffy-Gregory,Restaurants,4.480080333408706
+10068,"Vega, Hale and Sanders",Grocery,4.795678797209335
+10051,Farley PLC,Electronics,4.37797662992242
+10090,Williams-Curtis,Travel,3.8503259665231617
+10051,Jimenez-Gomez,Grocery,4.70113620644117
+10080,Wolfe-Howard,Clothing,3.0752459794270353
+10062,Castro-Clark,Restaurants,4.9667835693503415
+10030,"Clark, Gay and Hess",Electronics,3.6105249527065664
+10091,Newman Inc,Clothing,2.5955860125345365
+10005,Mayer-Sanders,Travel,3.0106162338776157
+10096,Thompson-Mccall,Travel,4.818813314732534
+10072,"Shepherd, Johnson and Potter",Electronics,4.056068747323289
+10094,Turner Inc,Grocery,3.776445142686945
+10089,"Hill, Fowler and Hanna",Travel,4.333853188180741
+10031,"Gray, Hardy and Rhodes",Travel,4.8420718946737535
+10056,"Patterson, Chapman and Ford",Restaurants,3.3840542761116357
+10067,Figueroa PLC,Grocery,4.953700359301526
+10080,Ortiz PLC,Clothing,2.6941791693818886
+10010,"Sloan, Castillo and Hall",Electronics,2.162537500699466
+10094,Chandler-King,Clothing,4.75728971424482
+10087,"Armstrong, Burgess and Logan",Clothing,3.2236433157554267
+10015,Owens-Silva,Electronics,2.360504707649553
+10062,Jimenez Inc,Grocery,2.831706957454877
+10093,"Pruitt, Lucero and Erickson",Clothing,4.183982584051522
+10006,Wright PLC,Clothing,4.996095052392097
+10020,"Walton, Turner and Montgomery",Travel,2.2668954870169298
+10068,Keller and Sons,Travel,1.6514566320985007
+10074,Adams-Hansen,Electronics,3.728263533298718
+10021,"Torres, Brown and Mcclain",Travel,4.537980338406721
+10029,"Gonzalez, Small and Roach",Electronics,2.4882792161149125
+10037,Snow-Carney,Restaurants,1.899962547464796
+10032,Mann-Eaton,Travel,1.3382555607544484
+10054,Murphy-Reynolds,Travel,1.9867716525084962
+10097,"Moore, Jones and Davis",Clothing,3.782715103835162
+10075,Miller LLC,Grocery,1.8837165685320967
+10004,"Garcia, Diaz and Salazar",Clothing,1.8561175331047406
+10058,Williams-Baker,Clothing,4.356551469277448
+10015,Johnson-Johnston,Clothing,3.4604702432774253
+10056,"Baker, Hansen and Johnson",Restaurants,3.884833309818069
+10100,"Stanley, Randolph and Estes",Grocery,3.6518635524746044
+10090,Tate PLC,Restaurants,3.1286312148686357
+10035,"Hammond, Edwards and Steele",Electronics,3.995772083116559
+10100,Silva-Delgado,Clothing,3.3264894287943645
+10086,"Wise, Holmes and Perez",Restaurants,1.0875707108054717
+10004,Nelson Inc,Travel,2.578911934754379
+10011,"Lambert, Collins and Martin",Clothing,3.679481902285984
+10014,Turner Ltd,Restaurants,2.2005058651950384
+10030,Simon-Cole,Travel,3.929545804087893
+10075,Miller LLC,Travel,1.1641625132038076
+10037,Smith Inc,Grocery,1.289893006373131
+10027,"Rios, Watkins and Hernandez",Grocery,4.860590839386052
+10023,"Miller, Horn and Curtis",Electronics,3.83149855673607
+10040,Vargas PLC,Restaurants,4.448768801365581
+10055,"Mcconnell, Escobar and Strickland",Travel,4.4716295932367025
+10026,Choi and Sons,Clothing,3.696512228396533
+10091,"Williams, Warren and Mclaughlin",Clothing,1.6486265816020156
+10093,Duncan Group,Clothing,2.8250484538164433
+10071,Deleon and Sons,Clothing,4.435852603737868
+10018,Austin-Lopez,Restaurants,4.575926613451591
+10082,"Riley, Torres and Stewart",Electronics,4.4636640081749634
+10096,Wright and Sons,Clothing,2.6196233114817695
+10020,Wells Group,Electronics,3.6513127147791304
+10007,Barnes-Lambert,Grocery,4.162735879191798
+10037,Smith Ltd,Travel,2.316776518312245
+10088,Miller PLC,Travel,1.9193689462403576
+10051,Hester-Allen,Travel,4.665609543560082
+10010,Gonzalez-Pitts,Electronics,2.2305344325836742
+10048,Hodges PLC,Travel,4.604744572801166
