@@ -1,4 +1,4 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
+import { Component, ElementRef, ViewChild,OnInit } from '@angular/core';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
@@ -10,18 +10,20 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule, FormsModule,HttpClientModule]
 })
-export class ChatbotComponent {
+export class ChatbotComponent implements OnInit{
   @ViewChild('chatBody', { static: false }) chatBody!: ElementRef;
   userInput: string = '';
   chatVisible: boolean = false;
   messages: { text: string; type: string }[] = [];
 
   constructor(private http: HttpClient) {}
-
+  ngOnInit(): void {
+    this.fetchBotResponse("hi")
+  }
   toggleChat() {
     this.chatVisible = !this.chatVisible;
   }
-
+  
   sendMessage() {
     if (!this.userInput.trim()) return;
     this.messages.push({ text: this.userInput, type: 'user-message' });
