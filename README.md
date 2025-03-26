@@ -42,7 +42,9 @@ Additionally, our Conversational AI chatbot acts as an intelligent assistant, pr
 Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Data Quality & Availability
+Balancing Personalization & Privacy
+
 
 ## 🏃 How to Run
 1. Clone the repository  
