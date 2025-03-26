@@ -47,7 +47,7 @@ Balancing Personalization & Privacy
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   https://github.com/ewfx/aidhp-marsbytes.git
    ```
 2. Install dependencies  
    ```sh
@@ -55,8 +55,11 @@ Balancing Personalization & Privacy
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python .\python_server.py
+   node server.js
+   ng serve
    ```
+   run the python server and node server in backend directory.
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Angular
